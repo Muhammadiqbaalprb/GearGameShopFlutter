@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93653761101",
+    "project_id": "sutori-project",
+    "storage_bucket": "sutori-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93653761101:android:7892400c4bfa3014463004",
+        "android_client_info": {
+          "package_name": "com.example.flutter_aplikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLiLXwBkH8bmGMWCIm3Aq5O4jxFPGt_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
